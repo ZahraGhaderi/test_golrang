@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test_golrang/static/css/main.9277c494.chunk.css",
+    "main.js": "/test_golrang/static/js/main.b4374d73.chunk.js",
+    "main.js.map": "/test_golrang/static/js/main.b4374d73.chunk.js.map",
+    "runtime-main.js": "/test_golrang/static/js/runtime-main.220ec55e.js",
+    "runtime-main.js.map": "/test_golrang/static/js/runtime-main.220ec55e.js.map",
+    "static/js/2.91c1de9c.chunk.js": "/test_golrang/static/js/2.91c1de9c.chunk.js",
+    "static/js/2.91c1de9c.chunk.js.map": "/test_golrang/static/js/2.91c1de9c.chunk.js.map",
+    "static/js/3.d19e9f59.chunk.js": "/test_golrang/static/js/3.d19e9f59.chunk.js",
+    "static/js/3.d19e9f59.chunk.js.map": "/test_golrang/static/js/3.d19e9f59.chunk.js.map",
+    "index.html": "/test_golrang/index.html",
+    "static/css/main.9277c494.chunk.css.map": "/test_golrang/static/css/main.9277c494.chunk.css.map",
+    "static/js/2.91c1de9c.chunk.js.LICENSE.txt": "/test_golrang/static/js/2.91c1de9c.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/test_golrang/static/media/Dslr-Hd-Background-Images-Full-Screen-Blur-Background-Hd-.f8d577a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.220ec55e.js",
+    "static/js/2.91c1de9c.chunk.js",
+    "static/css/main.9277c494.chunk.css",
+    "static/js/main.b4374d73.chunk.js"
+  ]
+}
