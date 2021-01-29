@@ -1,0 +1,19 @@
+.items{
+    display: grid;
+    grid-template-columns: 4% 4% 40% 48%;
+    justify-content: space-around;
+    grid-gap: 2px;
+    background-color: white;
+    box-sizing: border-box;
+    opacity: 0.4;
+    text-align: center;
+}
+
+
+.items p{
+    border: 1px solid sienna;
+    padding-top: 5px;
+    font-weight: bolder;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
